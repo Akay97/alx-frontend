@@ -3,7 +3,7 @@ html {
     scroll-behavior: smooth;
 }
 
-/* setting color values */
+/* adding colors */
 body {
     color: #161616;
 }
@@ -17,9 +17,9 @@ a {
 }
 
 .card-category {
-    color: #D73953
+    color: #D73953;
 }
 
 .section-tagline {
-    cursor: #D73953;
+    color: #D73953;
 }
