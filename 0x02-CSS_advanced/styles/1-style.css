@@ -1,1 +1,4 @@
-icss
+/* Smooth scroll transition */
+html {
+    scroll-behavior: smooth;
+}
